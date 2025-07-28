@@ -1,6 +1,6 @@
 ## 🗺️ 빠르고 편리한 국내 항공 & 숙소 예약 서비스, '감행' 입니다 ! ⁀જ✈︎
 
-<img width="2000" height="1125" alt="1" src="https://github.com/user-attachments/assets/d1bb0fa9-9098-4886-a6b5-01a89634302f" />
+<img width="800" height="500" alt="1" src="https://github.com/user-attachments/assets/d1bb0fa9-9098-4886-a6b5-01a89634302f" />
 
 #### 안녕하세요!✨ 국내 여행을 더욱 편리하게 즐기실 수 있도록 개발된 통합 플랫폼 감행입니다! 
 #### 감행은 항공권과 숙소 예약을 한 번에 제공하여, 여행 준비 과정을 단순화하는 데 큰 도움을 줍니다. 🛣️
